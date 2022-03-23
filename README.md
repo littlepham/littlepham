@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicole Pham-Nguyen
+- 👋 Hi, I’m Nicole!!
 - 👀 I’m interested in expanding my coding knowledge, gaining experience with projects in improving the healthcare experience for all
 - 🌱 I’m currently learning machine learning and analyzing sets.
 - 📫 Reach me through here or LinkedIn!
